@@ -36,6 +36,32 @@ An advanced AI system built with Artificial Neural Networks (ANN) to detect frau
 
 
 ---
+## 📉 Credit Card Fraud Detection Results
+
+### 1. Training History (Accuracy & Loss)
+The model performance over training epochs showing the convergence of accuracy and loss functions.
+
+![Accuracy Graph](< <img width="398" height="581" alt="graph_accuracy" src="https://github.com/user-attachments/assets/efad5ff8-ae6f-422e-8483-aa86335b8084" />
+  >)
+![Loss Graph](< <img width="456" height="597" alt="graph_Loss" src="https://github.com/user-attachments/assets/131a737d-e760-4957-a6de-193b1a5fc2ce" />
+  >)
+
+### 2. Confusion Matrix & Prediction Samples
+Evaluation of the model's ability to distinguish between normal transactions and fraudulent ones.
+
+![Confusion Matrix](<  <img width="842" height="690" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/fe934cd9-2b17-4331-a8e1-b197c09437da" />
+ >)
+![Model Predictions](< <img width="576" height="193" alt="photo_Predicted" src="https://github.com/user-attachments/assets/674e3522-9e28-45f3-8b25-f41260466591" />
+  >)
+
+### 3. Classification Report
+Detailed analysis of precision, recall, and f1-score, which are critical for detecting fraud cases effectively.
+
+![Classification Report](< <img width="595" height="255" alt="Classification_Report" src="https://github.com/user-attachments/assets/7db592e6-ec57-4367-9185-af1f2ab7795d" />
+  >)
+
+
+
 
 ## 🛠️ كيفية الاستخدام | How to Use
 1. قم بتحميل ملف الموديل `credit_card_fraud_model.h5`.
