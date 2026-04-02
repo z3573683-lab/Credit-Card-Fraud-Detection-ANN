@@ -47,12 +47,15 @@ The model performance over training epochs showing the convergence of accuracy a
 ![Accuracy Graph](< <img width="398" height="581" alt="graph_accuracy" src="https://github.com/user-attachments/assets/efad5ff8-ae6f-422e-8483-aa86335b8084" />
   >)
 
-Predictive Maintenance Pipeline Architecture: A two-stage system where Model 1 performs binary fault detection to identify system status, followed by Model 2 for multi-class classification to diagnose the specific failure type. This hierarchical approach ensures maximum diagnostic accuracy.
+1. Model Accuracy (دقة النموذج)
+   
+​English:
 
-​بالعربي
+The graph shows a steady increase in both training and validation accuracy over 25 epochs. The Validation Accuracy (orange) is consistently higher and reaches a plateau near 1.000, while Training Accuracy (blue) is still climbing, suggesting the model generalizes very well to new data.
 
-​هيكلية نظام الصيانة التنبؤية: نظام يعتمد على مرحلتين؛ حيث يقوم الموديل الأول باكتشاف وجود العطل، ثم يأتي دور الموديل الثاني لتشخيص نوع العطل بدقة. هذا التصميم الهيكلي يضمن أعلى درجات الدقة في التنبؤ والتشخيص الصناعي
+​العربية
 
+يوضح الرسم البياني زيادة مستمرة في دقة التدريب والتحقق على مدار 25 دورة (Epoch). نلاحظ أن دقة التحقق (باللون البرتقالي) أعلى باستمرار وتصل لمرحلة استقرار قريبة من 1.000، بينما لا تزال دقة التدريب (باللون الأزرق) في تصاعد، مما يشير إلى قدرة النموذج الممتازة على التعميم
 
 ![Loss Graph](< <img width="456" height="597" alt="graph_Loss" src="https://github.com/user-attachments/assets/131a737d-e760-4957-a6de-193b1a5fc2ce" />
   >)
