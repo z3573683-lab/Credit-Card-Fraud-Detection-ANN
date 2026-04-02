@@ -6,9 +6,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📝 وصف المشروع | Project Overview
-**بالعربية:** نظام ذكاء اصطناعي متطور يعتمد على الشبكات العصبية الاصطناعية (ANN) لكشف محاولات الاحتيال في معاملات البطاقات الائتمانية. يواجه المشروع تحدي "بيانات غير متوازنة" (Imbalanced Data) بنجاح فائق ويقدم نتائج دقيقة جداً لحماية الأنظمة المالية.
+**بالعربية:**
+
+نظام ذكاء اصطناعي متطور يعتمد على الشبكات العصبية الاصطناعية (ANN) لكشف محاولات الاحتيال في معاملات البطاقات الائتمانية. يواجه المشروع تحدي "بيانات غير متوازنة" (Imbalanced Data) بنجاح فائق ويقدم نتائج دقيقة جداً لحماية الأنظمة المالية.
 
 **In English:**
+
 An advanced AI system built with Artificial Neural Networks (ANN) to detect fraudulent credit card transactions. The project successfully tackles the "imbalanced data" challenge, providing highly accurate results to secure financial systems.
 
 ---
