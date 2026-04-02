@@ -76,8 +76,18 @@ The loss graph displays a consistent downward trend for both sets. The Validatio
 ### 2. Confusion Matrix & Prediction Samples
 Evaluation of the model's ability to distinguish between normal transactions and fraudulent ones.
 
-![Confusion Matrix](<  <img width="842" height="690" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/fe934cd9-2b17-4331-a8e1-b197c09437da" />
- >)
+![Confusion Matrix](<  <img width="842" height="690" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/fe934cd9-2b17-4331-a8e1-b197c09437da" />>)
+
+Confusion Matrix (مصفوفة الارتباك)
+
+​English:
+
+The confusion matrix shows the model's performance in classifying Normal and Fraud transactions. It correctly identified 56,664 normal cases and 88 fraud cases. The model demonstrates high sensitivity, as it only missed 10 fraud cases (False Negatives), which is crucial for fraud detection tasks.
+
+​العربية
+
+توضح مصفوفة الارتباك أداء النموذج في تصنيف المعاملات الطبيعية (Normal) والمشبوهة (Fraud). نجح النموذج في تحديد 56,664 حالة طبيعية و88 حالة احتيال بشكل صحيح. يظهر النموذج حساسية عالية، حيث أخطأ في تصنيف 10 حالات احتيال فقط (سالب كاذب)، وهو أمر بالغ الأهمية في مشاريع كشف الاحتيال.
+
 ![Model Predictions](< <img width="576" height="193" alt="photo_Predicted" src="https://github.com/user-attachments/assets/674e3522-9e28-45f3-8b25-f41260466591" />
   >)
 
