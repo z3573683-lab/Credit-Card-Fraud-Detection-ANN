@@ -87,6 +87,16 @@ Detailed analysis of precision, recall, and f1-score, which are critical for det
 ![Classification Report](< <img width="595" height="255" alt="Classification_Report" src="https://github.com/user-attachments/assets/7db592e6-ec57-4367-9185-af1f2ab7795d" />
   >)
 
+Classification Report (تقرير التصنيف)
+
+​English:
+
+The report highlights excellent model performance with an overall Accuracy of 1.00. For the Fraud class, the model achieved a high Recall of 0.90, meaning it successfully detected 90% of all fraudulent activities. While the precision for fraud is lower (0.31), the high recall ensures that most potential risks are captured, which is the priority in security systems.
+
+​العربية
+
+يوضح التقرير أداءً ممتازاً للنموذج بدقة إجمالية (Accuracy) تصل إلى 1.00. بالنسبة لفئة الاحتيال (Fraud)، حقق النموذج معدل استدعاء (Recall) مرتفع بنسبة 0.90، مما يعني أنه نجح في اكتشاف 90% من حالات الاحتيال الفعلية. ورغم انخفاض الدقة (Precision) لهذه الفئة، إلا أن الاستدعاء العالي يضمن تغطية معظم المخاطر، وهو الهدف الأساسي في أنظمة الحماية.
+
 
 
 
