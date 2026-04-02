@@ -57,6 +57,19 @@ Predictive Maintenance Pipeline Architecture: A two-stage system where Model 1 p
 ![Loss Graph](< <img width="456" height="597" alt="graph_Loss" src="https://github.com/user-attachments/assets/131a737d-e760-4957-a6de-193b1a5fc2ce" />
   >)
 
+2. Model Loss (خسارة النموذج)
+   
+​English:
+
+The loss graph displays a consistent downward trend for both sets. The Validation Loss (orange) remains lower than the Training Loss (blue) throughout the process. This indicates that the model is learning effectively without signs of overfitting, as the error rate continues to decrease smoothly.
+
+​العربية
+
+يظهر رسم الخسارة اتجاهاً تنازلياً مستمراً لكلتا المجموعتين. تظل خسارة التحقق (باللون البرتقالي) أقل من خسارة التدريب (باللون الأزرق) طوال العملية. يشير هذا إلى أن النموذج يتعلم بفعالية دون وجود علامات "فرط تعلم" (Overfitting)، حيث يستمر معدل الخطأ في الانخفاض بسلاسة.
+
+
+
+
 ### 2. Confusion Matrix & Prediction Samples
 Evaluation of the model's ability to distinguish between normal transactions and fraudulent ones.
 
