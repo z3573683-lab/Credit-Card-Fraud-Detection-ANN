@@ -46,6 +46,14 @@ The model performance over training epochs showing the convergence of accuracy a
 
 ![Accuracy Graph](< <img width="398" height="581" alt="graph_accuracy" src="https://github.com/user-attachments/assets/efad5ff8-ae6f-422e-8483-aa86335b8084" />
   >)
+
+Predictive Maintenance Pipeline Architecture: A two-stage system where Model 1 performs binary fault detection to identify system status, followed by Model 2 for multi-class classification to diagnose the specific failure type. This hierarchical approach ensures maximum diagnostic accuracy.
+
+​بالعربي
+
+​هيكلية نظام الصيانة التنبؤية: نظام يعتمد على مرحلتين؛ حيث يقوم الموديل الأول باكتشاف وجود العطل، ثم يأتي دور الموديل الثاني لتشخيص نوع العطل بدقة. هذا التصميم الهيكلي يضمن أعلى درجات الدقة في التنبؤ والتشخيص الصناعي
+
+
 ![Loss Graph](< <img width="456" height="597" alt="graph_Loss" src="https://github.com/user-attachments/assets/131a737d-e760-4957-a6de-193b1a5fc2ce" />
   >)
 
